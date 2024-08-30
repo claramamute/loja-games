@@ -1,0 +1,7 @@
+.fundoHome {
+    background-image: url(../../assets/fundostar.jpeg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+  }
